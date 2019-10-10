@@ -1,0 +1,33 @@
+#sidebar{
+  margin: 0px;
+  height: 100%;
+  font-size: 12px;
+}
+.glydet{
+	float: right;
+}
+.navbar-brand > img {
+ height: 50px;
+}
+.list-group-item {
+	height: 40px; 
+}
+
+/* level 1*/
+#sidebar .list-group .collapse .list-group-item  {
+  padding-left: 20px;
+}
+
+/* level 2*/
+#sidebar .list-group .collapse > .collapse .list-group-item {
+  padding-left: 30px;
+  padding-bottom: 1px;
+  padding-top: 1px;
+}
+
+/* level 3*/
+#sidebar .list-group .collapse > .collapse > .collapse .list-group-item {
+  padding-left: 40px;
+  padding-bottom: 1px;
+  padding-top: 1px;
+}

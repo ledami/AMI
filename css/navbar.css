@@ -1,0 +1,21 @@
+
+.navbar {
+    background-color: #273445;
+    margin: 0px;
+  height: 30px;
+  border-radius: 0;
+  margin-left: 0px;
+    margin-right: 0px;
+        margin-bottom: 70px;
+}
+.navbar-brand {
+  color: #ffffff ;
+  padding: 0 15px;
+  height: 30px;
+  line-height: 40px;
+}
+
+#footer{
+	margin-bottom: 0px;
+	height: 10px;
+}

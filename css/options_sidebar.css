@@ -1,0 +1,12 @@
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #273445;
+    border-color: #273445;
+}
+.panel-primary>.panel-body {
+    border-color: #273445;
+    border-top-color: #273445;
+}
+a.accordion-toggle {
+    font-size: 12px;
+}
